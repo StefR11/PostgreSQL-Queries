@@ -8,7 +8,7 @@ The Excel workbook containing the taken screenshots covers the following:
 - JOINS
 - Concat() function
 - UNION and UNION ALL operators
-- Window function
+- Window functions
 - HAVING clause
 - Subquery in a WHERE clause
 - Aggregate functions
